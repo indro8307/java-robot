@@ -1,0 +1,56 @@
+Apr 13, 2019 2:51:01 PM com.robots.example.RobotLogger <init>
+INFO: Logger Name: com.robots.example.Robots
+Apr 13, 2019 2:51:01 PM com.robots.example.RobotLogger <init>
+WARNING: Constructing RobotLogger
+Apr 13, 2019 2:51:01 PM com.robots.example.RobotLogger log
+INFO: Initialized properties
+Apr 13, 2019 2:51:01 PM com.robots.example.RobotLogger log
+INFO: Enter: saveAsText
+Apr 13, 2019 2:51:01 PM com.robots.example.RobotLogger log
+INFO: parsed url: https://stackoverflow.com/questions/7488872/page-content-is-loaded-with-javascript-and-jsoup-doesnt-see-it/7489380#7489380
+Apr 13, 2019 2:51:21 PM com.robots.example.RobotLogger log
+INFO: Clearing system clipboard
+Apr 13, 2019 2:51:21 PM com.robots.example.RobotLogger log
+INFO: parsed url: https://coderanch.com/t/552392/java/Java-Robot-press-keypad-enter
+Apr 13, 2019 2:51:40 PM com.robots.example.RobotLogger log
+INFO: Clearing system clipboard
+Apr 13, 2019 2:51:40 PM com.robots.example.RobotLogger log
+INFO: parsed url: https://support.mozilla.org/en-US/kb/where-are-my-logins-stored
+Apr 13, 2019 2:52:00 PM com.robots.example.RobotLogger log
+INFO: Clearing system clipboard
+Apr 13, 2019 2:52:00 PM com.robots.example.RobotLogger log
+INFO: parsed url: https://stackoverflow.com/questions/7488872/page-content-is-loaded-with-javascript-and-jsoup-doesnt-see-it/7489380#7489380
+Apr 13, 2019 2:52:19 PM com.robots.example.RobotLogger log
+INFO: Clearing system clipboard
+Apr 13, 2019 2:52:19 PM com.robots.example.RobotLogger log
+INFO: parsed url: https://coderanch.com/t/552392/java/Java-Robot-press-keypad-enter
+Apr 13, 2019 2:52:39 PM com.robots.example.RobotLogger log
+INFO: Clearing system clipboard
+Apr 13, 2019 2:52:39 PM com.robots.example.RobotLogger log
+INFO: parsed url: https://support.mozilla.org/en-US/kb/where-are-my-logins-stored
+Apr 13, 2019 2:52:58 PM com.robots.example.RobotLogger log
+INFO: Clearing system clipboard
+Apr 13, 2019 2:52:58 PM com.robots.example.RobotLogger log
+INFO: parsed url: https://stackoverflow.com/questions/7488872/page-content-is-loaded-with-javascript-and-jsoup-doesnt-see-it/7489380#7489380
+Apr 13, 2019 2:53:18 PM com.robots.example.RobotLogger log
+INFO: Clearing system clipboard
+Apr 13, 2019 2:53:18 PM com.robots.example.RobotLogger log
+INFO: parsed url: https://coderanch.com/t/552392/java/Java-Robot-press-keypad-enter
+Apr 13, 2019 2:53:38 PM com.robots.example.RobotLogger log
+INFO: Clearing system clipboard
+Apr 13, 2019 2:53:38 PM com.robots.example.RobotLogger log
+INFO: parsed url: https://support.mozilla.org/en-US/kb/where-are-my-logins-stored
+Apr 13, 2019 2:53:57 PM com.robots.example.RobotLogger log
+INFO: Clearing system clipboard
+Apr 13, 2019 2:53:57 PM com.robots.example.RobotLogger log
+INFO: parsed url: https://stackoverflow.com/questions/7488872/page-content-is-loaded-with-javascript-and-jsoup-doesnt-see-it/7489380#7489380
+Apr 13, 2019 2:54:17 PM com.robots.example.RobotLogger log
+INFO: Clearing system clipboard
+Apr 13, 2019 2:54:17 PM com.robots.example.RobotLogger log
+INFO: parsed url: https://coderanch.com/t/552392/java/Java-Robot-press-keypad-enter
+Apr 13, 2019 2:54:37 PM com.robots.example.RobotLogger log
+INFO: Clearing system clipboard
+Apr 13, 2019 2:54:37 PM com.robots.example.RobotLogger log
+INFO: parsed url: https://support.mozilla.org/en-US/kb/where-are-my-logins-stored
+Apr 13, 2019 2:54:57 PM com.robots.example.RobotLogger log
+INFO: Clearing system clipboard
