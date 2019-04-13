@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-04-12T18:29:31</date>
+  <millis>1555073971816</millis>
+  <sequence>0</sequence>
+  <logger>com.robots.example.Robots</logger>
+  <level>INFO</level>
+  <class>com.robots.example.Robots</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Logger Name: com.robots.example.Robots</message>
+</record>
+<record>
+  <date>2019-04-12T18:29:31</date>
+  <millis>1555073971856</millis>
+  <sequence>1</sequence>
+  <logger>com.robots.example.Robots</logger>
+  <level>WARNING</level>
+  <class>com.robots.example.Robots</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reached here 1</message>
+</record>
+</log>
