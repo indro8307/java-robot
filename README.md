@@ -66,8 +66,29 @@ After that update the jar file with the new file with the below command:
            
            
            
+Steps for compilation and execution:
+====================================
+
+Open Windows cmd prompt and set the path to the downloaded code base.
 
 
+Create class files from java files using the below command:
 
+            javac ./src/*.java
 
+Create Runnable Jar file from the class files and manifest file:
 
+           jar -cvfm Robot.jar Manifest.mf .\src\*.class .\Resources\config.properties
+           
+           where :
+           f -> name of the jar file
+           m -> name of the manifest file
+           v -> verbose
+           c -> create a new jar file
+           
+Execute the jar file from windows cmd prompt:
+
+           java -jar Robot.jar
+           
+           
+           
